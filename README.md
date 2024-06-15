@@ -1,3 +1,3 @@
 # ContacCollector
 
-[ContacCollector Logo]
+![ContactCollector Logo]
